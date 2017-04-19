@@ -8,8 +8,8 @@
 本博客列表也提供同步更新的OPML文件（[下载OPML文件](https://github.com/tangqiaoboy/iOSBlogCN/raw/master/blogcn.opml)），可供导入到例如feedly等第三方定阅工具中，特别感谢 [icepy](https://github.com/icepy) 提供自动转换脚本。这里有[导入教程](http://blog.feedly.com/feedlimport/)。
 
 
-博客地址 | RSS地址
------ | -----
+博客地址 | RSS地址 | github
+----- | ----- | -----
 [YouXianMing_动画交互](http://www.cnblogs.com/YouXianMing/) |http://www.cnblogs.com/YouXianMing/ | https://github.com/YouXianMing
 [OneV's Den](http://onevcat.com) | <http://onevcat.com/atom.xml>
 [一只魔法师的工坊](http://blog.ibireme.com/) | <http://blog.ibireme.com/feed/>
