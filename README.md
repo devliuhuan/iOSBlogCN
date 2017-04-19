@@ -10,7 +10,7 @@
 
 博客地址 | RSS地址 | github
 ----- | ----- | -----
-[SuperYang`s Blog](http://yangchao0033.github.io/)||https://github.com/yangchao0033
+[SuperYang`s Blog](http://yangchao0033.github.io/)|http://yangchao0033.github.io/|https://github.com/yangchao0033
 [YouXianMing_动画交互](http://www.cnblogs.com/YouXianMing/) |http://www.cnblogs.com/YouXianMing/ | https://github.com/YouXianMing
 [OneV's Den](http://onevcat.com) | <http://onevcat.com/atom.xml>
 [一只魔法师的工坊](http://blog.ibireme.com/) | <http://blog.ibireme.com/feed/>
