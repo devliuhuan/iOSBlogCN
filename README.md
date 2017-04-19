@@ -16,7 +16,7 @@
 [破船之家](http://beyondvincent.com) | <http://beyondvincent.com/atom.xml>
 [NSHipster](http://nshipster.cn) | <http://nshipster.cn/feed.xml>
 [Limboy 无网不剩](http://limboy.me/) | <http://feeds.feedburner.com/lzyy>
-[唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
+[唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>|https://github.com/tangqiaoboy
 [Ted's Homepage](http://wufawei.com/)| <http://wufawei.com/feed>
 [sunnyxx的技术博客](http://blog.sunnyxx.com/) | <http://blog.sunnyxx.com/atom.xml>
 [Kevin Blog](http://zhowkev.in) | <http://zhowkev.in/rss>
