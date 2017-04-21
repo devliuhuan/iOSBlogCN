@@ -10,7 +10,7 @@
 
 博客地址 | RSS地址 | github
 ----- | ----- | -----
-Yari D'areglia(http://www.thinkandbuild.it/interactive-transitions/)|https://github.com/ariok | https://github.com/ariok/TB_InteractiveTransitions
+[Yari D'areglia(http://www.thinkandbuild.it/interactive-transitions/)| | https://github.com/ariok/TB_InteractiveTransitions
 [SuperYang`s Blog](http://yangchao0033.github.io/)|http://yangchao0033.github.io/|https://github.com/yangchao0033
 [YouXianMing_动画交互](http://www.cnblogs.com/YouXianMing/) |http://www.cnblogs.com/YouXianMing/ | https://github.com/YouXianMing
 [OneV's Den](http://onevcat.com) | <http://onevcat.com/atom.xml>
@@ -65,7 +65,7 @@ Yari D'areglia(http://www.thinkandbuild.it/interactive-transitions/)|https://git
 动画交互特效
 博客地址 | github
 ----- | ----- 
-https://github.com/twotoasters/AnimatedPath | 
-https://github.com/robb/RBBAnimation | 
-https://github.com/facebook/pop | 
+[https://github.com/twotoasters/AnimatedPath | 
+[https://github.com/robb/RBBAnimation | 
+[https://github.com/facebook/pop | 
 
