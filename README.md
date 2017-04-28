@@ -10,7 +10,11 @@
 
 博客地址 | RSS地址 | github
 ----- | ----- | -----
-[Yari D'areglia(http://www.thinkandbuild.it/interactive-transitions/)| | https://github.com/ariok/TB_InteractiveTransitions
+[资源收集]（http://www.jianshu.com/p/8230ebc4ccef）|[iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers)| https://github.com/nst
+[J_雨](http://www.jianshu.com/u/8117a2955480)|https://github.com/JazysYu|https://github.com/JazysYu
+[谭真](http://www.cnblogs.com/tanzhenblog/)|http://www.cnblogs.com/ruixin-jia/|https://github.com/banchichen
+[forkingdog(https://github.com/forkingdog)]||https://github.com/forkingdog
+[Yari D'areglia](http://www.thinkandbuild.it/interactive-transitions/)| | https://github.com/ariok/TB_InteractiveTransitions
 [SuperYang`s Blog](http://yangchao0033.github.io/)|http://yangchao0033.github.io/|https://github.com/yangchao0033
 [YouXianMing_动画交互](http://www.cnblogs.com/YouXianMing/) |http://www.cnblogs.com/YouXianMing/ | https://github.com/YouXianMing
 [OneV's Den](http://onevcat.com) | <http://onevcat.com/atom.xml>
