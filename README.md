@@ -17,7 +17,6 @@
 [forkingdog(https://github.com/forkingdog)]||https://github.com/forkingdog
 [Yari D'areglia](http://www.thinkandbuild.it/interactive-transitions/)| | https://github.com/ariok/TB_InteractiveTransitions
 [SuperYang`s Blog](http://yangchao0033.github.io/)|http://yangchao0033.github.io/|https://github.com/yangchao0033
-[YouXianMing_动画交互](http://www.cnblogs.com/YouXianMing/) |http://www.cnblogs.com/YouXianMing/ | https://github.com/YouXianMing
 [Lottie动画](https://github.com/airbnb/lottie-ios)|[Lottie说明](http://www.cocoachina.com/ios/20170503/19168.html)|[Lottie动画素材](http://www.lottiefiles.com/?page=3)
 [YouXianMing_动画交互](http://www.cnblogs.com/YouXianMing/) |http://www.cnblogs.com/YouXianMing/ | https://github.com/YouXianMing
 [OneV's Den](http://onevcat.com) | <http://onevcat.com/atom.xml>
