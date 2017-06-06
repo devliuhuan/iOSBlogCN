@@ -10,7 +10,7 @@
 
 博客地址 | RSS地址 | github
 ----- | ----- | -----
-[苹果核-Tangram技术集](http://pingguohe.net/)|[Alibaba-github](https://github.com/alibaba/)|
+[苹果核-Tangram技术集](http://pingguohe.net/)|[苹果核GitHub](https://github.com/pingguohe)|[Alibaba-github](https://github.com/alibaba/)
 [土土哥](http://tutuge.me/about/)|[github](https://github.com/zekunyan)|
 (https://github.com/nicklockwood)|[一缕殇流化隐半边冰霜](https://halfrost.com/)|
 [资源收集]（http://www.jianshu.com/p/8230ebc4ccef）|[iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers)| https://github.com/nst
