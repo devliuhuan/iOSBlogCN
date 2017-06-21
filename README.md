@@ -10,6 +10,7 @@
 
 博客地址 | RSS地址 | github
 ----- | ----- | -----
+[Glow 技术团队博客](http://tech.glowing.com/cn/change-uinavigationbar-backgroundcolor-dynamically/)|https://github.com/ltebean|
 [苹果核-Tangram技术集](http://pingguohe.net/)|[苹果核GitHub](https://github.com/pingguohe)|[Alibaba-github](https://github.com/alibaba/)
 [土土哥](http://tutuge.me/about/)|[github](https://github.com/zekunyan)|
 (https://github.com/nicklockwood)|[一缕殇流化隐半边冰霜](https://halfrost.com/)|
